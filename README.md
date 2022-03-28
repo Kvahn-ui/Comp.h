@@ -3,7 +3,8 @@ instead of &lt;iostream> for cpp or &lt;stdio.h> for c use the comp.h header fil
 ---
 ### hello world code for c and cpp using comp.h
 
-``` #include "comp.h" 
+``` 
+#include "comp.h" 
 int mn() {
 hw;
 ret0;
